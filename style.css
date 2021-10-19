@@ -4,7 +4,8 @@
     margin: 0;
 }
 
-nav, .footer {
+nav, 
+.footer {
     background-color: #142331;
     padding: 15px;
     color: white;
@@ -24,7 +25,8 @@ img {
     box-shadow: 5px 5px 10px grey;
 }
 
-.main, .footer{
+.main, 
+.footer{
     padding: 25px;
 }
 #logo{
@@ -74,5 +76,10 @@ button {
     border-radius: 30px;
     font-weight: 700;
 
+}
+
+.testimonial {
+    border: dashed 2px black;
+    margin: 15px;
 }
 
