@@ -102,3 +102,7 @@ button:hover {
 .card:hover p {
     display: inline;
 }
+
+.author {
+	text-align: right;
+}
