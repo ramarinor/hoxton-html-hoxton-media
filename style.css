@@ -78,7 +78,7 @@ button {
 
 }
 
-.testimonial {
+.testimonial, .card {
     border: dashed 2px black;
     margin: 15px;
 }
