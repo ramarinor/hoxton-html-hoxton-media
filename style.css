@@ -90,3 +90,15 @@ button:hover {
 	background-color: #bba447;
 	color: white;
 }
+
+.card {
+    background-color: whitesmoke;
+}
+
+.card p {
+    display: none;
+}
+
+.card:hover p {
+    display: inline;
+}
