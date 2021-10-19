@@ -81,5 +81,7 @@ button {
 .testimonial, .card {
     border: dashed 2px black;
     margin: 15px;
+    padding: 15px;
 }
+
 
